@@ -1,2 +1,9 @@
 # BSTU-sneakersbar
-exclusive sneakers shop
+Site: exclusive sneakers shop(Сайт: Магазин эксклюзивных кроссовок SneakersBar)
+
+На сайте можно: 
+-подобрать модель кроссовок
+
+-выбрать покрас для кроссовок
+
+-рассчитать сумму заказа
