@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-alegreya: Alegreya;
+  --font-josefin-sans: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+  --font-size-41xl: 60px;
+  --font-size-1xl: 10px;
+  --font-size-6xl: 6px;
+  --font-size-12xl: 12px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-steelblue-100: #259ad7;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-gray: rgba(0, 0, 0, 0.5);
+}
